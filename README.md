@@ -119,6 +119,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📫 Contato
 
-Seu Nome - https://www.linkedin.com/ - https://www.linkedin.com/in/andersondemetrio/
+**Anderson Demetrio**
+[LinkedIn](https://www.linkedin.com/in/andersondemetrio/)
+[Email](mailto:anderson.dehora@gmai.com)
 
 Link do Projeto: (https://github.com/andersondemetrio/app-uol)
