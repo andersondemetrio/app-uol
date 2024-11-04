@@ -119,6 +119,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📫 Contato
 
-Seu Nome - [@seuTwitter](https://twitter.com/seuTwitter) - seu-email@email.com
+Seu Nome - [@seuTwitter](https://www.linkedin.com/) - https://www.linkedin.com/in/andersondemetrio/
 
 Link do Projeto: (https://github.com/andersondemetrio/app-uol)
