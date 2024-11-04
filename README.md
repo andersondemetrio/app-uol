@@ -76,7 +76,6 @@ uvicorn main:app --reload
 
 A documentação interativa está disponível em:
 - Swagger UI: http://localhost:8000/docs
-- ReDoc: http://localhost:8000/redoc
 
 ## 🐳 Docker
 
